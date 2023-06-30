@@ -43,7 +43,7 @@ new Swiper('.swiper-container', {
 
 # Youtube Api
 
-![Starbucks_Youtube](./images/starbucks_youtube.png)
+![Starbucks_Youtube](./images/starbucks_youtube.gif)
 [IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko)를 사용해 YouTube 영상을 제어 하였습니다.
 
 ```HTML
@@ -83,7 +83,7 @@ function onYouTubePlayerAPIReady() {
 ```
 # ScrollMagic
 
-![Starbucks_ScrollMagic]()
+![Starbucks_ScrollMagic](./images/starbucks_scrollmagic.gif)
 
 [ScrollMagic](http://scrollmagic.io/docs/)을 활용해 요소들이 지정한 스크롤 위치에 있다면 화면에 보이도록 설정 하였습니다.
 
