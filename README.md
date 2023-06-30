@@ -10,8 +10,8 @@
 
 # Swiper
 
-![Starbucks_swiper](./images/starbucks_swiper.jpg)
-![Starbucks_swiper](./images/starbucks_swiper2.png)
+![Starbucks_swiper](./images/starbucks_swiper.gif)
+![Starbucks_swiper](./images/starbucks_swiper2.gif)
 [Swiper](https://swiperjs.com/)를 사용하여 가속 전환과 여러 기본 동작을 갖춘 슬라이드를 구성하였습니다.
 
 ```HTML
