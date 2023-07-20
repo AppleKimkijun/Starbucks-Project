@@ -19,7 +19,7 @@
 <br>
 <br>
 
-# 1.Swiper
+# ↔️Swiper
 
 ![Starbucks_swiper](./images/starbucks_swiper.gif)
 ![Starbucks_swiper](./images/starbucks_swiper2.gif)
@@ -55,7 +55,7 @@ new Swiper('.swiper-container', {
 <br>
 <br>
 
-# 2.Youtube Api
+# 📺Youtube Api
 
 ![Starbucks_Youtube](./images/starbucks_youtube.gif)
 [IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko)를 사용해 YouTube 영상을 제어 하였습니다.
@@ -99,7 +99,7 @@ function onYouTubePlayerAPIReady() {
 <br>
 <br>
 
-# 3.ScrollMagic
+# ⬇️ScrollMagic
 
 ![Starbucks_ScrollMagic](./images/starbucks_scrollmagic.gif)
 
