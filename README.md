@@ -1,5 +1,5 @@
 # ☕️ Starbucks
-<div style=text-align:center>
+<div align=center>
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=HTML5&style=plastic)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=CSS3&style=plastic)
@@ -7,13 +7,14 @@
 
 </div>
 
-스타벅스 클론코딩 사이트 입니다.  
-아래⬇️에 스타벅스 <span style="color:royalblue; font-weight:700;">링크</span>를 눌러 페이지를 확인 해보세요!  
 
-[STARBUCKS](https://kijun-starbucks.netlify.app/)
+
+
 
 ![Starbucks_main_image](./images/Starbucks_main.jpg)
-스타벅스 메인 페이지 클론코딩 사이트 입니다.
+스타벅스 클론코딩 사이트 입니다.  
+아래⬇️에 스타벅스 <span style="color:royalblue; font-weight:700;">링크</span>를 눌러 페이지를 확인 해보세요!  
+[STARBUCKS](https://kijun-starbucks.netlify.app/)
 
 <br>
 <br>
