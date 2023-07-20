@@ -1,14 +1,17 @@
 # ☕️ Starbucks
 
-스타벅스 클론코딩 입니다.  
+스타벅스 클론코딩 사이트 입니다.  
 아래⬇️에 스타벅스 <span style="color:royalblue; font-weight:700;">링크</span>를 눌러 페이지를 확인 해보세요!  
 
 [STARBUCKS](https://kijun-starbucks.netlify.app/)
 
 ![Starbucks_main_image](./images/Starbucks_main.jpg)
-스타벅스 메인 페이지 클론코딩 입니다.
+스타벅스 메인 페이지 클론코딩 사이트 입니다.
 
-# Swiper
+<br>
+<br>
+
+# 1.Swiper
 
 ![Starbucks_swiper](./images/starbucks_swiper.gif)
 ![Starbucks_swiper](./images/starbucks_swiper2.gif)
@@ -41,7 +44,10 @@ new Swiper('.swiper-container', {
 });
 ```
 
-# Youtube Api
+<br>
+<br>
+
+# 2.Youtube Api
 
 ![Starbucks_Youtube](./images/starbucks_youtube.gif)
 [IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko)를 사용해 YouTube 영상을 제어 하였습니다.
@@ -81,7 +87,11 @@ function onYouTubePlayerAPIReady() {
   });
 }
 ```
-# ScrollMagic
+
+<br>
+<br>
+
+# 3.ScrollMagic
 
 ![Starbucks_ScrollMagic](./images/starbucks_scrollmagic.gif)
 
