@@ -1,4 +1,12 @@
 # ☕️ Starbucks
+<div style=text-align:center>
+
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=HTML5&style=plastic)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=CSS3&style=plastic)
+![javascript](https://img.shields.io/badge/javascript-ES6-yellow?logo=javascript&style=plastic)
+![react](https://img.shields.io/badge/react-v18.2.0-61dafb?logo=React&style=plastic)
+
+</div>
 
 스타벅스 클론코딩 사이트 입니다.  
 아래⬇️에 스타벅스 <span style="color:royalblue; font-weight:700;">링크</span>를 눌러 페이지를 확인 해보세요!  
